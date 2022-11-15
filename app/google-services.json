@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37127948576",
+    "project_id": "ab-testing-ex",
+    "storage_bucket": "ab-testing-ex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37127948576:android:a12592c6d5aea6110aaf45",
+        "android_client_info": {
+          "package_name": "com.tutorial.abtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37127948576-6u7k4jnnf890crfckc885uuqei50igbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgL_wfpqL-gvuSUH1EL_YkTqHoBssKsWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37127948576-6u7k4jnnf890crfckc885uuqei50igbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
